@@ -1,1 +1,3 @@
-
+void hello() {
+    cout << "Hello!";
+}
